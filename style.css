@@ -1,0 +1,48 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color:blue;  
+  }  
+  button {   
+         background-color: blue;   
+         width: 100%;  
+          color:white;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          
+           }   
+   form {   
+          border: 2px solid white;
+          border-radius: 5px;
+          
+          
+          background-color: white; 
+          position: fixed; 
+          top:50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+
+      }   
+   
+     
+    .signinbtn {   
+          width: auto;  
+          background-color: blue; 
+          padding: 10px 18px;  
+          margin: 10px 5px;  
+      }   
+          
+       
+   .container {   
+          padding: 25px;   
+    
+      }   
+      h1{
+          color: black;
+      }
+      a{
+          color:grey;
+      }
+      .checkbox{
+          color:blue;
+      }
