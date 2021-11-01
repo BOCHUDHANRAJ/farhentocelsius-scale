@@ -1,0 +1,27 @@
+body{
+    
+}
+h1{
+    text-align: center;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+
+.input-container input{
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
+
+.input-container button{
+    margin-left: 20px;
+    padding: 0 25px;
+    font-size: 17px;
+}
+
